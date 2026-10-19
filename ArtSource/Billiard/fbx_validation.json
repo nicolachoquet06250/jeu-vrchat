@@ -1,0 +1,27 @@
+{
+  "Billiard_Nocturne_Table.fbx": {
+    "meshes": 1,
+    "triangles": 2464,
+    "dimensions_m": [
+      2.940000057220459,
+      1.6699999570846558,
+      0.8715001176576394
+    ],
+    "materials": [
+      "Nocturne_Table_Atlas"
+    ],
+    "ground_contact_verified": true
+  },
+  "Billiard_Nocturne_Balls.fbx": {
+    "meshes": 16,
+    "triangles": 3584,
+    "dimensions_m": [
+      1.3804773688316345,
+      0.3228204548358917,
+      0.0927513837814331
+    ],
+    "materials": [
+      "Nocturne_Balls_Atlas"
+    ]
+  }
+}

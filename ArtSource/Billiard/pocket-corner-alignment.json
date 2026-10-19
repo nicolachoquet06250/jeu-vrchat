@@ -1,0 +1,9 @@
+{
+  "asset": "Assets/Billiard_Nocturne/Billiard_Nocturne_Table.fbx",
+  "change": "outer-pocket-corner-alignment",
+  "inner_alignment_preserved": true,
+  "corner_fill": {"center_abs_x": 1.31225, "center_abs_y": 0.65625, "size_x": 0.1845, "size_y": 0.2525},
+  "outer_edges": {"end_apron_x": 1.4045, "long_apron_y": 0.7825},
+  "mesh_triangles": 3594,
+  "unity_import_bounds_m": [2.94, 1.67, 0.87]
+}

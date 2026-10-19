@@ -1,0 +1,17 @@
+0 Ball_00 static=0 staticBatch=False body=(3.8100, 5.6234, 0.0000) visual=(3.8100, 5.6234, 0.0000) parent=Golf_Ball_00
+1 Ball_01 static=0 staticBatch=False body=(-3.3964, 5.6234, 0.0000) visual=(-3.3964, 5.6234, 0.0000) parent=Golf_Ball_01
+2 Ball_02 static=0 staticBatch=False body=(-3.4352, 5.6234, -0.0225) visual=(-3.4352, 5.6234, -0.0225) parent=Golf_Ball_02
+3 Ball_03 static=0 staticBatch=False body=(-3.4741, 5.6234, 0.0451) visual=(-3.4741, 5.6234, 0.0451) parent=Golf_Ball_03
+4 Ball_04 static=0 staticBatch=False body=(-3.5130, 5.6234, 0.0225) visual=(-3.5130, 5.6234, 0.0225) parent=Golf_Ball_04
+5 Ball_05 static=0 staticBatch=False body=(-3.5130, 5.6234, -0.0676) visual=(-3.5130, 5.6234, -0.0676) parent=Golf_Ball_05
+6 Ball_06 static=0 staticBatch=False body=(-3.5518, 5.6234, 0.0901) visual=(-3.5518, 5.6234, 0.0901) parent=Golf_Ball_06
+7 Ball_07 static=0 staticBatch=False body=(-3.5518, 5.6234, 0.0000) visual=(-3.5518, 5.6234, 0.0000) parent=Golf_Ball_07
+8 Ball_08 static=0 staticBatch=False body=(-3.4741, 5.6234, 0.0000) visual=(-3.4741, 5.6234, 0.0000) parent=Golf_Ball_08
+9 Ball_09 static=0 staticBatch=False body=(-3.4352, 5.6234, 0.0225) visual=(-3.4352, 5.6234, 0.0225) parent=Golf_Ball_09
+10 Ball_10 static=0 staticBatch=False body=(-3.4741, 5.6234, -0.0451) visual=(-3.4741, 5.6234, -0.0451) parent=Golf_Ball_10
+11 Ball_11 static=0 staticBatch=False body=(-3.5130, 5.6234, 0.0676) visual=(-3.5130, 5.6234, 0.0676) parent=Golf_Ball_11
+12 Ball_12 static=0 staticBatch=False body=(-3.5130, 5.6234, -0.0225) visual=(-3.5130, 5.6234, -0.0225) parent=Golf_Ball_12
+13 Ball_13 static=0 staticBatch=False body=(-3.5518, 5.6234, 0.0451) visual=(-3.5518, 5.6234, 0.0451) parent=Golf_Ball_13
+14 Ball_14 static=0 staticBatch=False body=(-3.5518, 5.6234, -0.0451) visual=(-3.5518, 5.6234, -0.0451) parent=Golf_Ball_14
+15 Ball_15 static=0 staticBatch=False body=(-3.5518, 5.6234, -0.0901) visual=(-3.5518, 5.6234, -0.0901) parent=Golf_Ball_15
+Konami pos=(0.00, 8.60, 26.65) rot=(0.00, 0.00, 0.00) font=LegacyRuntime (UnityEngine.Font) celebrations=4

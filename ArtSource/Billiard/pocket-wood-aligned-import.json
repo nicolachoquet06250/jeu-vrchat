@@ -1,0 +1,11 @@
+{
+  "asset": "Assets/Billiard_Nocturne/Billiard_Nocturne_Table.fbx",
+  "version": "pocket-wood-trimmed-preserve-caches",
+  "wood_pocket_pieces_preserved": true,
+  "trimmed_dimensions": {"corner_fill_x": 0.20, "corner_fill_y": 0.27, "middle_fill_x": 0.25, "middle_fill_y": 0.20},
+  "table_mesh": {"vertices": 2024, "triangles": 3464},
+  "unity_root": "Giant_Billiard_x6",
+  "unity_position": [0, 0.8, 0],
+  "unity_scale": [6, 6, 6],
+  "repair_menu": "Nocturne/Repair visible billiard table"
+}

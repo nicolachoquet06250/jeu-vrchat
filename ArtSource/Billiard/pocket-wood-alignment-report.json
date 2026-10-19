@@ -1,0 +1,17 @@
+{
+  "middleFillSize": [
+    0.25,
+    0.2,
+    0.36
+  ],
+  "changed": "Wood pocket backing inserts",
+  "success": true,
+  "fbx": "Assets/Billiard_Nocturne/Billiard_Nocturne_Table.fbx",
+  "sides": 2,
+  "blend": "ArtSource/Billiard/Billiard_Nocturne.blend",
+  "cornerFillSize": [
+    0.2,
+    0.27,
+    0.36
+  ]
+}

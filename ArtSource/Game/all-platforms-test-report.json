@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "scope": "ClientSim, simulated VR and touch input, actual Udon VM; not physical device or real network transport validation",
+  "suites": {
+    "vr-test": {
+      "success": true,
+      "checks": 95,
+      "errors": 0
+    },
+    "playtest": {
+      "success": true,
+      "checks": 85,
+      "errors": 0
+    },
+    "multiplayer-test": {
+      "success": true,
+      "checks": 72,
+      "errors": 0
+    }
+  },
+  "totalChecks": 252
+}
